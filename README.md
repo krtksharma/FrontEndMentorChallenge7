@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 <img src="./output/desk.png">
-<img src="./output/mobile.png" width="50%">
+<img src="./output/mobile.png" width="60%">
 
 
 ### Links
