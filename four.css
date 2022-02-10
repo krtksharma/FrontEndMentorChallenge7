@@ -193,10 +193,10 @@ main{
 
 }
 
-@media (min-width:800px) and (max-width:1200px){
+@media (min-width:1050px) and (max-width:1200px){
     .text{
         width: fit-content;
-        height: 18.75rem;
+        height: 19.5rem;
         padding: 0.625rem;
     }
     .text h1{
